@@ -1,4 +1,4 @@
-hello world
-gelooo
-hello
-яюмн рш ксвьхи!
+hello world;
+gelooo;
+hello;
+sano;
